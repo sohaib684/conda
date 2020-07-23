@@ -13,3 +13,4 @@ set CHERE_INVOKING=1
 bash -lc ./build.sh
 if %errorlevel% neq 0 exit /b %errorlevel%
 exit /b 0
+(the  line should be given here)
